@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534053943945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3577281736",
+    "id" : "20BD4879",
+    "lastKnownWriteTime" : 1534054127,
+    "last_content_update" : 1534054127793,
+    "path" : "C:/Users/CarlosEmiliano/Dropbox/Curso Python [clases]/ex2.R",
+    "project_path" : "ex2.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,6 @@
+Los documentos presentes en esta carpeta están compartidos por Dropbox actualmente.
+
+En un momento escribo que sucedio al sincronizarlo con chrome/google drive a la vez.
+
+Los archivos están compartidos en una carpeta local de drive, pero no sé si se actualizan automaticamente como con dropbox.
+
